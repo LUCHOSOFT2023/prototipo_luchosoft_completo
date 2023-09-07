@@ -3,16 +3,16 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Santi-223/prototipo_luchosoft_completo.git
+https://github.com/LUCHOSOFT2023/prototipo_luchosoft_completo.git
 git push -u origin main
 
 
 Vincular el proyecto con git
 git init
-git config user.email "santitsj223munera@gmail.com"
-git config user.name "Santi-223"
+git config user.email "magonzalez677@misena.edu.co"
+git config user.name "LUCHOSOFT2023"
 git add .
 git commit -m "Primer Commit"
 git branch -M main
-git remote add origin https://github.com/Santi-223/prototipo_luchosoft_completo.git
+https://github.com/LUCHOSOFT2023/prototipo_luchosoft_completo.git
 git push -u origin main
