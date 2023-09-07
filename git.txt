@@ -3,7 +3,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-https://github.com/LUCHOSOFT2023/prototipo_luchosoft_completo.git
+git remote add origin https://github.com/LUCHOSOFT2023/prototipo_luchosoft_completo.git
 git push -u origin main
 
 
@@ -14,5 +14,5 @@ git config user.name "LUCHOSOFT2023"
 git add .
 git commit -m "Primer Commit"
 git branch -M main
-https://github.com/LUCHOSOFT2023/prototipo_luchosoft_completo.git
+git remote add origin https://github.com/LUCHOSOFT2023/prototipo_luchosoft_completo.git
 git push -u origin main
